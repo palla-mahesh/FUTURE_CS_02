@@ -1,0 +1,15 @@
+From: "PayPal Security Team" <security@paypal-verify-account.com>
+Reply-To: hacker@evil-domain.ru
+To: victim@example.com
+Subject: URGENT: Your Account Has Been Suspended!
+Date: Mon, 01 Jan 2024 12:00:00 +0000
+Content-Type: text/html
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We have detected <b>unauthorized access</b>. You must <b>verify</b> your identity <b>immediately</b>.</p>
+<p>Click <a href="http://192.168.1.100/paypal-login">https://www.paypal.com/login</a> to verify.</p>
+<p>Download invoice: <a href="http://bit.ly/xyz123">Download Invoice</a></p>
+</body>
+</html>
